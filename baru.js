@@ -1,1 +1,1 @@
-console.log('Baru')
+const bebas = 'Bebas';
