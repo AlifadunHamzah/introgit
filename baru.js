@@ -1,1 +1,1 @@
-let bebas = 'Bebas';
+const bebas = 'Bebas';
